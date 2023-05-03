@@ -1,2 +1,2 @@
 # CNE310_Nick
- GitHub Repository assignment for CNE 31 Spring 2023
+ GitHub Repository assignment for CNE 310 Spring 2023
